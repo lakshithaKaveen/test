@@ -1,0 +1,36 @@
+{
+    "team": [
+        {
+            "name": "A. M. H. P. Abeysinghe",
+            "email": "e19003@eng.pdn.ac.lk",
+            "eNumber": "E/19/003"
+        },
+        {
+            "name": "E. M. L. K. Edirisinghe",
+            "email": "e19095@eng.pdn.ac.lk",
+            "eNumber": "E/19/095"
+        },
+        {
+            "name": "J. M. E. G. Jayasundara",
+            "email": "e19163@eng.pdn.ac.lk",
+            "eNumber": "E/19/163"
+        },
+        {
+            "name": "W. L. Manikdiwela",
+            "email": "e19236@eng.pdn.ac.lk",
+            "eNumber": "E/19/236"
+        },
+        {
+            "name": "K. G. D. T. Wijayawardana",
+            "email": "e19443@eng.pdn.ac.lk",
+            "eNumber": "E/19/443"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk"
+        }
+    ],
+    "tags": ["Web", "Embedded Systems"]
+}
